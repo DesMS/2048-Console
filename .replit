@@ -1,0 +1,5 @@
+run = "node index.js"
+entryPoint = "index.js"
+
+[nix]
+channel = "stable-21_11"
